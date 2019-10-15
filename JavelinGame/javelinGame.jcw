@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<workspace>
+	<settings>
+		<label>javelinGame</label>
+	</settings>
+	<users>
+		<user>
+			<path>javelinGame.jcu</path>
+		</user>
+	</users>
+	<projects>
+		<project>
+			<path>javelinGame.jcp</path>
+		</project>
+	</projects>
+</workspace>
